@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40">
+  <defs>
+    <linearGradient id="g" x1="0" x2="200" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"  stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+  </defs>
+  <text x="10" y="30" font-size="26" fill="url(#g)" font-family="monospace">CYBER</text>
+</svg>
